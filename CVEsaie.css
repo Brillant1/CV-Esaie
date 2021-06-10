@@ -1,0 +1,103 @@
+.granddiv1 span{
+   border: 1px solid black;
+    border-radius: 5px;
+    padding: 1px;
+    margin-left: 3px; 
+    padding-right: 3px;
+    padding-left: 3px;
+    font-size: 16px; 
+}
+.image{
+    border-radius: 50%;
+    border: 4px solid orange;
+    margin-top: 28px;
+   
+}
+.granddiv1{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    margin-left: 7vw;
+    
+}
+.granddiv1>div{
+    margin-bottom: 10px;
+}
+h2{
+    border-bottom: 5px solid orange;
+    width: 100%;
+}
+.granddiv2>div{
+    margin-bottom: 10px;
+}
+.span1,.span2{
+    border: none;
+    color: blue;
+}
+img{object-fit: cover;}
+
+
+.div31,.divdash,.div32{
+    font-size: 16px;
+}
+.granddiv4{
+    width: 65%;
+    margin-right: 20vw;
+    margin-top: 10px;
+    
+}
+.granddiv3{
+    margin-left: 7vw;
+    width: 60%;
+}
+.granddiv4>div>h2{
+    width: 100%;
+}
+.p3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.ifri{
+    color: blue;
+}
+.lead,.lead1{
+    display: flex;
+    font-weight: normal;
+}
+.lead ul,.lead1 ul{
+    font-size: 15px;
+}
+.li1{
+   padding-top: 15px;
+   
+}
+.all{
+    display: flex;
+    margin-left: 10rem;
+    
+}
+.all1{
+    width: 40%;
+}
+.back{
+    color: blue;
+}
+.tete{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.l1 li{
+    line-height: 1vw;
+}
+.bas{
+    margin-top: 5vh;
+}
+.zero{
+    height: 0.1px;
+    width: 100%;
+    border: 1px dashed silver;
+    opacity: 0.7;
+}
+
